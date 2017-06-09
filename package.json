@@ -1,0 +1,23 @@
+{
+    "name": "marksixbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/litt1e-p/MarksixBot.git"
+    },
+    "author": "litt1e-p",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/litt1e-p/MarksixBot/issues"
+    },
+    "homepage": "https://github.com/litt1e-p/MarksixBot#readme",
+    "dependencies": {
+        "node-schedule": "^1.1.1",
+        "axios": "^0.13.0"
+    }
+}
